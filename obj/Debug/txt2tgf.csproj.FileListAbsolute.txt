@@ -1,0 +1,9 @@
+C:\Util\bin\txt2tgf.exe.config
+C:\Util\bin\txt2tgf.exe
+C:\Util\bin\txt2tgf.pdb
+C:\GIT\txt2tgf\obj\Debug\txt2tgf.csprojResolveAssemblyReference.cache
+C:\GIT\txt2tgf\obj\Debug\aryes.MainForm.resources
+C:\GIT\txt2tgf\obj\Debug\Aryes.Properties.Resources.resources
+C:\GIT\txt2tgf\obj\Debug\txt2tgf.csproj.GenerateResource.Cache
+C:\GIT\txt2tgf\obj\Debug\txt2tgf.exe
+C:\GIT\txt2tgf\obj\Debug\txt2tgf.pdb
